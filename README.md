@@ -1,4 +1,6 @@
 # Projects
+## Designed By  -[tasleem57][Link100]
+[Link100]:https://github.com/tasleem57/
 
 ## Based on Web Development using HTML, CSS and JavaScript-
 
@@ -72,11 +74,37 @@ Multiple Step can covered i this form.(Just for practice)
 -21. Instagram Logo -- [Link][Link21]{:target="_blank" rel="noopener"}  \
 A webpage help for educational purpose built using html,css,javascript.
 
+-22. Chess Board -- [Link][Link22]{:target="_blank" rel="noopener"}  \
+A Chess Board Simple Webpage.
+
+-23. Tic Tac Toe -- [Link][Link23]{:target="_blank" rel="noopener"}  \
+
+-24. Google Home Page -- [Link][Link24]{:target="_blank" rel="noopener"}  \
+
+-25. Guiter -- [Link][Link25]{:target="_blank" rel="noopener"}  \
+A Music Player Guiter using html ,css ,js.
+
+-26. BMI Calculator -- [Link][Link26]{:target="_blank" rel="noopener"}  \
+You can Calculate your BMI using this Website.
+
+-27. Super Heros -- [Link][Link27]{:target="_blank" rel="noopener"}  \
+
+-28. MindHack Game -- [Link][Link28]{:target="_blank" rel="noopener"}  \
+just for practice.
+
+-29. Weather App -- [Link][Link29]{:target="_blank" rel="noopener"}  \
+
+-30. Parallax Scroll Animation -- [Link][Link30]{:target="_blank" rel="noopener"}  \
+
+-31. Student Registration Form -- [Link][Link31]{:target="_blank" rel="noopener"}  \
+
+-32. Footware Design -- [Link][Link32]{:target="_blank" rel="noopener"}  \
 
 
 #DBMS Mini Project
 
--Inventory Management System \
+-Inventory Management System -- [Link][Link33]{:target="_blank" rel="noopener"}  \
+
 Inventory management system which is helpful for the business operators, where shopkeeper keep the records of purchase and sales.\
 Proper inventory management and control prevent customers from receiving inaccurate or damaged goods. This improves the client experience, protects against difficulties like refunds, and encourages repeat purchases.
 
@@ -102,4 +130,16 @@ Proper inventory management and control prevent customers from receiving inaccur
 [Link18]:https://tasleem57.github.io/Quiz-App// 
 [Link19]:https://tasleem57.github.io/ResumeGenerator//
 [Link20]:https://tasleem57.github.io/Multi-Step-Form// 
-[Link21]:https://tasleem57.github.io/Instagram-Logo-Using-HTML//
+[Link21]:https://tasleem57.github.io/Instagram-Logo-Using-HTML/
+[Link22]: https://tasleem57.github.io/Chess-Board/
+[Link23]: https://tasleem57.github.io/Tic-Tac-Toe/
+[Link24]: https:https://tasleem57.github.io/Google-Home-Page/
+[Link25]: https://tasleem57.github.io/Guitar/
+[Link26]: https://tasleem57.github.io/BMI-Calculator/
+[Link27]: https://tasleem57.github.io/Super-Heros/
+[Link28]: https://tasleem57.github.io/MindHack-Game/
+[Link29]: https://tasleem57.github.io/Weather-app/
+[Link30]: https://tasleem57.github.io/Parallax-scroll-animation/
+[Link31]: https://tasleem57.github.io/Student-Registration-Form/
+[Link32]: https://tasleem57.github.io/Shoes-Footware-Design/
+[link33]:https://github.com/tasleem57/Inventory-Management-System/
